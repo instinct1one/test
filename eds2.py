@@ -4,7 +4,6 @@ import json
 import requests
 import time
 import sys
-import Date
 import logging2
 from aws_requests_auth.aws_auth import AWSRequestsAuth
 from aws_requests_auth.boto_utils import BotoAWSRequestsAuth
